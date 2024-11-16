@@ -1,0 +1,9 @@
+.card {
+    width: 500px;
+}
+:host {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
